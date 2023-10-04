@@ -1,0 +1,14 @@
+/Users/tobi/Projects/Practico1/Practico1/bin/Debug/netcoreapp3.1/Practico1
+/Users/tobi/Projects/Practico1/Practico1/bin/Debug/netcoreapp3.1/Practico1.deps.json
+/Users/tobi/Projects/Practico1/Practico1/bin/Debug/netcoreapp3.1/Practico1.runtimeconfig.json
+/Users/tobi/Projects/Practico1/Practico1/bin/Debug/netcoreapp3.1/Practico1.runtimeconfig.dev.json
+/Users/tobi/Projects/Practico1/Practico1/bin/Debug/netcoreapp3.1/Practico1.dll
+/Users/tobi/Projects/Practico1/Practico1/bin/Debug/netcoreapp3.1/Practico1.pdb
+/Users/tobi/Projects/Practico1/Practico1/obj/Debug/netcoreapp3.1/Practico1.csproj.AssemblyReference.cache
+/Users/tobi/Projects/Practico1/Practico1/obj/Debug/netcoreapp3.1/Practico1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobi/Projects/Practico1/Practico1/obj/Debug/netcoreapp3.1/Practico1.AssemblyInfoInputs.cache
+/Users/tobi/Projects/Practico1/Practico1/obj/Debug/netcoreapp3.1/Practico1.AssemblyInfo.cs
+/Users/tobi/Projects/Practico1/Practico1/obj/Debug/netcoreapp3.1/Practico1.csproj.CoreCompileInputs.cache
+/Users/tobi/Projects/Practico1/Practico1/obj/Debug/netcoreapp3.1/Practico1.dll
+/Users/tobi/Projects/Practico1/Practico1/obj/Debug/netcoreapp3.1/Practico1.pdb
+/Users/tobi/Projects/Practico1/Practico1/obj/Debug/netcoreapp3.1/Practico1.genruntimeconfig.cache
